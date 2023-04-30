@@ -1,1 +1,1 @@
-# CourseManagement
+# SQL_CourseManagement
